@@ -1,6 +1,6 @@
 # Computer_Vision
 ## Overview
-This repository contains the weekly topics and assignments for the Computer Vision course. The course covers fundamental concepts in image processing, machine learning, and recognition techniques.
+This repository contains the weekly topics and assignments for the Computer Vision course.
 
 ## Topic
 | #  | Concept                               | Assignment                                                                                                                |
